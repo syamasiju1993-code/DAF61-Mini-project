@@ -1,0 +1,25 @@
+name =input("enter your name:")
+print("hello",name)
+string3 =",welcome to python programming"
+result2 =name + string3
+print(result2)
+print(result2[0])
+print(result2[-1])
+print(result2[0:5])
+print(result2[-11:])
+print(result2[::-1])
+print(result2[-18:-12])
+strm ="python beginner tutorial"
+print(strm.upper())
+print(strm.lower())
+print(strm.capitalize())
+print(strm.count('y'))
+print(strm.replace("python","advanced python"))
+t1  =(10 ,20,30)
+t2  =(40 ,50,60)
+t_COMBINE =  t1+t2
+print(t_COMBINE)
+print(t_COMBINE*3)
+print(t_COMBINE[2])
+print(t_COMBINE[:3])
+print(t_COMBINE[3:])
